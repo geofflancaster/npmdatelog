@@ -17,7 +17,7 @@
     "npmdatelog"
   ],
   "author": "Geoff Lancaster <geoff@tekflysoftware.com> (http://www.tekflysoftware.com/)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/geofflancaster/npmdatelog/issues"
   },
