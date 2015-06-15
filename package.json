@@ -1,6 +1,6 @@
 {
   "name": "npmdatelog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extends npmlog and adds functionality for user to add date to log entry",
   "main": "log.js",
   "scripts": {
